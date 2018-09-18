@@ -6,8 +6,11 @@ Gary wants a tool to help him collect data about students' movements in the clas
   -Alex Baker<br>
   -Justin Wynkoop<br>
 # Team Meetings
+<hr>
 ## September 13th 2018 Meeting
-<h2>Location: <i>Robert Bell</i></h2>
-<h2>Time: <i>Class Time</i></h2>
-### Discussion
+<h3>Location: <i>Robert Bell</i></h3>
+<h3>Time: <i>Class Time</i></h3>
+<h4>Discussion</h4>
+<hr>
 Discussion was mainly about how to contact the client and what to say. Client was contacted for meeting time. We will have a meeting with the client Wednesday of September 19th 2018 at 4:00 P.M.
+<hr>
