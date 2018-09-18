@@ -7,7 +7,7 @@ Gary wants a tool to help him collect data about students' movements in the clas
   -Justin Wynkoop<br>
 # Team Meetings
 <hr>
-## September 13th 2018 Meeting
+<h2>September 13th 2018 Meeting</h2>
 <h3>Location: <i>Robert Bell</i></h3>
 <h3>Time: <i>Class Time</i></h3>
 <h4>Discussion</h4>
