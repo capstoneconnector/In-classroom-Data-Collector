@@ -29,3 +29,7 @@ Meeeting was focused on question to ask the client.
 <h4>Discussion:</h4>
 Met with client. Discussed project overview and took minutes. 
 <hr>
+
+<hr>
+## First Presenation
+<a href="https://docs.google.com/presentation/d/1dj6GyhkfZejB_R0QZS0v30oceMnbQt5xVSPP4zVZyJU/edit#slide=id.gc6f73a04f_0_14">Link to first presentation</a>
