@@ -25,11 +25,18 @@ Meeeting was focused on question to ask the client.
 
 <h2>September 20th 2018 Meeting </h2>
 <h3>Location: <i>Teachers College</i></h3>
-<h3>Time: <i>Class Time 4:00 P.M.</i></h3>
+<h3>Time: <i>Time 4:00 P.M.</i></h3>
 <h4>Discussion:</h4>
 Met with client. Discussed project overview and took minutes. 
 <hr>
 
+<h2>September 27th 2018 Meeting </h2>
+<h3>Location: <i>Robert Bell</i></h3>
+<h3>Time: <i>Time 4:00 P.M.</i></h3>
+<h4>Discussion:</h4>
+Discussed how the project would be approached due to the changing environment of the product itself. Essentially making sure the design will compete with the other's group product effectively and devliering what the client wants in a cost efficient manner. Most likely utilizing a LAMP stack. 
 <hr>
-## First Presenation
+
+<hr>
+# First Presenation
 <a href="https://docs.google.com/presentation/d/1dj6GyhkfZejB_R0QZS0v30oceMnbQt5xVSPP4zVZyJU/edit#slide=id.gc6f73a04f_0_14">Link to first presentation</a>
