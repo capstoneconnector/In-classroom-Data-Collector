@@ -4,7 +4,7 @@
 
 Gary will place students somewhere in the classroom with some identifiable properties about them (like hair color, clothes etc.). The, client will be able to move each student over time. Each movement will be saved and an appropriate report will be generated at the end in a meaningful format.</p>
 </blockquote>
-## User classes and characteristics
+<h2>User classes and characteristics</h2>
 <blockquote>
 	Instructors in TC 412 and are not required to have any technical background since the system will be easy to use.
 	Technical constraints
