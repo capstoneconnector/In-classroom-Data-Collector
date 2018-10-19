@@ -4,14 +4,14 @@
 
 Gary will place students somewhere in the classroom with some identifiable properties about them (like hair color, clothes etc.). The, client will be able to move each student over time. Each movement will be saved and an appropriate report will be generated at the end in a meaningful format.</p>
 </blockquote>
-# User classes and characteristics
+## User classes and characteristics
 <blockquote>
 	Instructors in TC 412 and are not required to have any technical background since the system will be easy to use.
 	Technical constraints
 	Web based site
 	Front end technology utilized
 </blockquote>
-# Use cases
+## Use cases
 <blockquote>
 	Use case: Access from browser(laptop or tablet)
 	Actor(s): User
@@ -44,7 +44,7 @@ Gary will place students somewhere in the classroom with some identifiable prope
 	Pre-Condition: User must be on the website
 	Post-Condition: The software identifies each object(student and teacher) uniquely. 
 </blockquote>
-# Functional requirements
+## Functional requirements
 <blockquote>
 	Change classroom layout
 	Priority: High
@@ -53,7 +53,7 @@ Gary will place students somewhere in the classroom with some identifiable prope
 	Save snapshots of class
 	Priority: High
 </blockquote>
-# Non-functional requirements
+## Non-functional requirements
 <blockquote>
 Access on laptops and tablets
 Priority: High
