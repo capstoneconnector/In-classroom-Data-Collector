@@ -44,6 +44,7 @@ Gary will place students somewhere in the classroom with some identifiable prope
 	Pre-Condition: User must be on the website
 	Post-Condition: The software identifies each object(student and teacher) uniquely. 
 </blockquote>
+<img src="https://lh3.googleusercontent.com/AbH7FeDlcbk6uK82MqOpOslOrRku5JhCz9dhLLakYX8kRRA0Dh2uxsFHkLPGpPv_N6xfvklDLr8jjXmKVoZodpsq60YYpayxLvFL7N16RvxVdGgItADUtMFAdLHiLVwgX1ofE3uw"/>
 <h2>Functional requirements</h2>
 <blockquote>
 	Change classroom layout
