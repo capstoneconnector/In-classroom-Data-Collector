@@ -11,7 +11,7 @@ Gary will place students somewhere in the classroom with some identifiable prope
 	Web based site
 	Front end technology utilized
 </blockquote>
-## Use cases
+<h2>Use cases</h2>
 <blockquote>
 	Use case: Access from browser(laptop or tablet)
 	Actor(s): User
@@ -44,7 +44,7 @@ Gary will place students somewhere in the classroom with some identifiable prope
 	Pre-Condition: User must be on the website
 	Post-Condition: The software identifies each object(student and teacher) uniquely. 
 </blockquote>
-## Functional requirements
+<h2>Functional requirements</h2>
 <blockquote>
 	Change classroom layout
 	Priority: High
@@ -53,7 +53,7 @@ Gary will place students somewhere in the classroom with some identifiable prope
 	Save snapshots of class
 	Priority: High
 </blockquote>
-## Non-functional requirements
+<h2>Non-functional requirements</h2>
 <blockquote>
 Access on laptops and tablets
 Priority: High
