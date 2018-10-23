@@ -4,7 +4,7 @@
 <h4>Discussion:</h4>
 Meeting was focused on question to ask the client.
 <hr>
-<h1>September 13th 2018 Meeting<h1>
+<h1>September 20th 2018 Meeting<h1>
 <h2>Location: Teachers College</h2>
 <h3>Time: 4:00 P.M.</h3>
 <h4>Discussion:</h4>
