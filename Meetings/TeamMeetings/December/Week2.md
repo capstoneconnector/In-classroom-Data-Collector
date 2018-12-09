@@ -8,4 +8,4 @@
 <h2>Location: Robert Bell</h2>
 <h3>Time: 12:30 P.M.</h3>
 <h4>Discussion:</h4>
-<p>Wrote unit tests. We used phpunit for our tests. Checked for files and did some generic math tests to show that unit testing is setup and and functional. </p>
+<p>Wrote unit tests. We used phpunit for our tests. Checked for files and did some generic math tests to show that unit testing is setup and and functional. We also discusses the colloquium held on Tuesday and talked about how we can implement some of the techniques and tools into our project</p>
