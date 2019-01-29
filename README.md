@@ -8,3 +8,5 @@ Gary wants a tool to help him collect data about students' movements in the clas
   
  # Code base:
  <a href="https://github.com/ZacharyToney/code-base-ICDC">Codebase</a>
+ # Releases:
+ <a href="https://github.com/ZacharyToney/code-base-ICDC/releases/tag/v1.0.0">First Iteration</a>
